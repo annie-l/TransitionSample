@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Transition Sample</string>
+    <string name="first_element">First Element</string>
+    <string name="enlarge">Enlarge</string>
+    <string name="image_transition_name">image</string>
+    <string name="second_element">Second Element</string>
+    <string name="shrink">Shrink</string>
+    <string name="text_transition_name">text</string>
+</resources>
